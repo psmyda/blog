@@ -1,0 +1,24 @@
+# Site settings
+title: Random Brain Dumps
+header-img: img/home-bg.jpg
+email: psmyda@smd-soft.com
+copyright_name: Piotr Smyda
+description: "A blog by Piotr Smyda. Programming and work stuff"
+baseurl: ""
+url: "http://smyda.net"
+twitter_username: psmyda
+github_username:  psmyda
+email_username:  psmyda@smd-soft.com
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+google_tracking_id: UA-85269731-1
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
