@@ -2,7 +2,7 @@
 layout:     post
 title:      "Updating npm packages in project"
 subtitle:   "Conquer this mess!!"
-date:       2017-07-27 12:00:00
+date:       2017-08-11 08:00:00
 author:     "Piotr Smyda"
 header-img: "img/posts/post3-bg.jpg"
 comments: true
